@@ -34,7 +34,8 @@ Power BI: For dynamic and interactive data visualization.
 This project was a fantastic opportunity to apply and hone my data analysis skills using a rich dataset, particularly in using Power BI for advanced data visualization. The insights gained not only helped improve current business strategies but also paved the way for future data-driven decision-making.
 
 ## Screenshots:
-![Screenshot (1256)](https://github.com/pranjalizade4/Afame-Technologies-Sales-Data-Analysis/assets/157109891/ccc328bc-db8f-4b90-9dd2-d2f16b62a8e8)
+![Screenshot (1242)](https://github.com/pranjalizade4/Afame-Technologies-Sales-Data-Analysis/assets/157109891/8b24c905-0c53-45bd-9ebc-d68cf61bdb22)
+
 
 # #DataAnalysis #SalesData #PredictiveAnalytics #CustomerSegmentation #DataScience #BusinessIntelligence #PowerBI #SalesMetrics
 
