@@ -1,4 +1,4 @@
-## Afame Technology - Sales Data Analysis ##
+## Afame Technology Project - Sales Data Analysis ##
 
 🚀 Exciting Project Update: Sales Data Analysis Using Power BI! 📊
 
